@@ -1,0 +1,13 @@
+@font-face {
+  font-family: OtomanopeeOne;
+  src: url(../font/OtomanopeeOne-Regular.ttf);
+}
+
+body{
+	overflow:hidden;
+}
+canvas{
+	position: absolute;
+	left:0px;
+	top:0px;
+}
